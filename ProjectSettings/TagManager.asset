@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Body
+  - Enemy
+  - PostProcessing
+  - WallRun
+  - Walls
+  - floor
+  - obstacle
+  - MeleeEnemy
+  - PanelOne
+  - PanelTwo
+  - HealthBarGroup
+  - Combat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PostProcessing
+  - Water
+  - UI
+  - Player
+  - Wallrun
+  - Walls
+  - Enemy
+  - WallTrigger
+  - obstacle
+  - Specials
+  - Interior
+  - Exterior
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
